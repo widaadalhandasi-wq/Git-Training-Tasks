@@ -1,1 +1,3 @@
 User Profile Page: Shows user information
+
+Note: This page requires authentication to access
